@@ -5,7 +5,7 @@ public class Fruits {
         Collection<String> c = new ArrayList<>();
         
         c.add("Apple");
-        c.add("");
+        c.add("Guava");
         c.add("Orange");
         c.add("Mango");
         System.out.println("Collection: " + c);
